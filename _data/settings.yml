@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Mario F. Palos
+  site_tagline: Space stuff.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,8 +9,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Index'
       url: '/'
+    - title: 'Portfolio'
+      url:  '/portfolio/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
@@ -31,9 +33,9 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/mariofpalos/'
   snapchat_url: ''
-  youtube_url: ''
+  youtube_url: 'https://www.youtube.com/channel/UC1OmRsCPyAEr6vjfrwtDlxw'
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
