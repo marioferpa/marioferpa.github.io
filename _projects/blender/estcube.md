@@ -3,7 +3,7 @@ title: 'ESTCube-3 mission video'
 subtitle: 'University of Tartu'
 date: 2023-08-27 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/3D/estcube_launch.png'
+featured_image: '/images/3D/estcube_launch_vertical.png'
 ---
 
 ![](/images/3D/estcube_launch.png)
