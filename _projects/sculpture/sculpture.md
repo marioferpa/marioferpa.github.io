@@ -3,7 +3,7 @@ title: 'Sculpture'
 subtitle: ''
 date: 2022-08-27 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/sculpture/far_insta.png'
+featured_image: '/images/sculpture/diptic1.png'
 ---
 
 ![](/images/sculpture/far.png)
