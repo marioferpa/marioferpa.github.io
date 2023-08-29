@@ -6,7 +6,12 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/sculpture/diptic1.png'
 ---
 
+
+## Portrait from the past
+
 ![](/images/sculpture/far.png)
+
+![](/images/sculpture/eyes.png)
 
 ## Demo content
 
